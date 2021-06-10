@@ -1,0 +1,21 @@
+<svg width="139" height="139" viewBox="0 0 139 139" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="139" height="139">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M69.4696 138.939C107.837 138.939 138.939 107.837 138.939 69.4696C138.939 31.1026 107.837 0 69.4696 0C31.1026 0 0 31.1026 0 69.4696C0 107.837 31.1026 138.939 69.4696 138.939ZM99.1518 56.7248C89.7952 56.8861 82.2132 49.304 82.2132 39.9474C82.2132 37.0437 83.0198 34.1399 84.3103 31.7201C79.632 29.9456 74.6311 28.9776 69.4689 28.9776C47.0453 28.9776 28.9774 47.2069 28.9774 69.6304C28.9774 92.0539 47.2066 110.122 69.6302 109.96C92.0537 109.799 110.122 91.7313 109.96 69.3077C109.96 64.1455 108.992 59.1446 107.218 54.6276C104.798 56.0795 102.056 56.7248 99.1518 56.7248ZM111.741 39.7863C111.741 46.7392 106.105 52.3756 99.1519 52.3756C92.1991 52.3756 86.5627 46.7392 86.5627 39.7863C86.5627 32.8335 92.1991 27.1971 99.1519 27.1971C106.105 27.1971 111.741 32.8335 111.741 39.7863Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<g filter="url(#filter0_f)">
+<path d="M118.867 69.8346C118.867 97.2909 96.6092 119.549 69.153 119.549C41.6967 119.549 19.439 97.2909 19.439 69.8346C19.439 42.3783 41.6967 20.1206 69.153 20.1206C96.6092 20.1206 118.867 42.3783 118.867 69.8346Z" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="-2.32196" y="-1.64032" width="142.95" height="142.95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10.8805" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="paint0_linear" x1="32.6655" y1="37.8572" x2="101.573" y2="106.765" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BFEF00"/>
+<stop offset="1" stop-color="#00EAEA"/>
+</linearGradient>
+</defs>
+</svg>
